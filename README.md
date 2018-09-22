@@ -1,3 +1,7 @@
+I want a t-shirt.
+Me, @joelgrus
+Size L, please.
+
 ## CNTK
 
 | **Chat** | **Windows build status** | **Linux build status** |
